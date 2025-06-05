@@ -5,6 +5,7 @@
 [](https://www.rust-lang.org/)
 
 `mg` is a high-speed, command-line tool written in Rust that helps you improve your writing. It parses text files to detect and highlight common stylistic issues, such as weasel words, passive voice, duplicate words, and spelling errors.
+![Screenshot 2025-06-05 at 7 04 20 PM](https://github.com/user-attachments/assets/7e912f58-33d4-4b51-816b-08732a81a848)
 
 ## ✨ Features
 
