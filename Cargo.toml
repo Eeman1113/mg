@@ -1,0 +1,15 @@
+[package]
+name = "gram"
+version = "1.0.0"
+edition = "2021"
+authors = ["Eeman Majumder", "Panagiotis Astithas"]
+description = "A comprehensive tool to improve writing by detecting weasel words, passive voice, duplicate words, and spelling errors."
+license = "MIT"
+
+[[bin]]
+name = "writing-checker"
+path = "src/main.rs"
+
+[dependencies]
+regex = "1.10"
+colored = "2.0"
