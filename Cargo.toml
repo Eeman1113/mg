@@ -1,7 +1,7 @@
 [package]
-name = "gram"
+name = "mg"
 version = "1.0.0"
-edition = "2021"
+edition = "2025"
 authors = ["Eeman Majumder", "Panagiotis Astithas"]
 description = "A comprehensive tool to improve writing by detecting weasel words, passive voice, duplicate words, and spelling errors."
 license = "MIT"
