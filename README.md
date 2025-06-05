@@ -54,6 +54,7 @@ If you built it with `cargo build`, you can run it through Cargo:
 
 ```bash
 cargo run --release -- <path/to/your/file.txt>
+cargo run --release -- test.txt
 ```
 
 ### Example
