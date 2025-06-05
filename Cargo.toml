@@ -2,7 +2,7 @@
 name = "mg"
 version = "1.0.0"
 edition = "2025"
-authors = ["Eeman Majumder", "Panagiotis Astithas"]
+authors = ["Eeman Majumder", "Panagiotis Astithas","Matt Might"]
 description = "A comprehensive tool to improve writing by detecting weasel words, passive voice, duplicate words, and spelling errors."
 license = "MIT"
 
